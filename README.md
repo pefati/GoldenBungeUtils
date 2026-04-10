@@ -37,5 +37,3 @@ Being native to Classic BungeeCord and WaterFall servers, the installation is st
 | `/gbu reload` | `gbu.admin.cmd` | Reload your changes in .yml files without memory leaks or dropping players. |
 
 ---
-
-*GoldenBungeeUtils - Classic stability and network efficiency for BungeeCord.*
