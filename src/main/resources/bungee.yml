@@ -1,0 +1,9 @@
+name: GoldenBungeeUtils
+main: Golden.Bungee.Main
+version: 1.0.0
+author: pefati
+description: Utils administrativos y de staff para BungeeCord
+depends:
+  - LuckPerms
+softDepends:
+  - PlaceholderAPI
